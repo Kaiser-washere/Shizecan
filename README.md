@@ -36,5 +36,4 @@ chmod +x exifscan.sh
 <p>Released under the <b>MIT License</b>.</p>
 
 
-[... full MIT text ...]
-</pre>
+<h1>educational use only”</h1>
