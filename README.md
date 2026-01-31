@@ -32,7 +32,8 @@ chmod +x exifscan.sh
 <li>Works on Linux systems with Bash.</li>
 </ul>
 
-## 📖 About **ExifScan** is a prototype Bash tool for scanning image metadata (EXIF). It is not intended as a daily-use utility, but rather a simple experiment for learning and exploration.
+## 📖 About
+**ExifScan** is a prototype Bash tool for scanning image metadata (EXIF). It is not intended as a daily-use utility, but rather a simple experiment for learning and exploration.
 
 <h2>License</h2>
 <p>Released under the <b>MIT License</b>.</p>
