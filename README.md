@@ -9,10 +9,8 @@
 ╚══════╝╚═╝  ╚═╝╚═╝╚══════╝╚══════╝ ╚═════╝╚═╝  ╚═╝╚═╝  ╚═══╝
 </pre>
 
-<h2>About</h2>
-<p><b>ExifScan</b> is a prototype Bash tool for scanning image metadata (EXIF).  
-It is not a daily-use utility, but a simple experiment for learning and exploration.</p>
-
+## 📖 About
+**ExifScan** is a prototype Bash tool for scanning image metadata (EXIF). It is not intended as a daily-use utility, but rather a simple experiment for learning and exploration.
 <ul>
 <li>Reads EXIF metadata using <code>exiftool</code> or <code>identify</code></li>
 <li>Outputs camera info, timestamps, GPS data, etc.</li>
@@ -32,8 +30,6 @@ chmod +x exifscan.sh
 <li>Works on Linux systems with Bash.</li>
 </ul>
 
-## 📖 About
-**ExifScan** is a prototype Bash tool for scanning image metadata (EXIF). It is not intended as a daily-use utility, but rather a simple experiment for learning and exploration.
 
 <h2>License</h2>
 <p>Released under the <b>MIT License</b>.</p>
